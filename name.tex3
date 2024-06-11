@@ -1,0 +1,40 @@
+\documentclass[12pt,a4paper]{article}
+\usepackage{graphicx}
+\usepackage{geometry}
+%\usepackage{tikz}
+%\usetikzlibrary{calc}
+%\usepackage{calc}
+\usepackage{xcolor}
+\geometry{a4paper,total={180mm,250mm},left=20mm,top=20mm}
+\begin{document}
+    \begin{center}
+    \textcolor{orange}{\large\textbf{VISVESVARAYA TECHNOLOGICAL UNIVERSITY}\\"Jnana sangama",Belagavi-560014,Karnataka}\\
+    \vspace{2mm}
+    \includegraphics[scale=0.4]{}\\
+    \vspace{2mm}
+    \textcolor{red}{A Report}\\
+    \textcolor{red}{ON}\\
+    \textcolor{orange}{\textbf{SOCIAL CONNECT AND RESPONSIBILITY ACTIVITIES}}\\
+    \small{submitted in partial fulfillment of the requirements for the award of degree of}\\
+    \vspace{5mm}
+     \textcolor{green}{\textbf{BACHELOR OF ENGINEERING}}\\
+IN\\
+\textbf{COMPUTER SCIENCE ENGINEERING}\\
+\vspace{5mm}
+\textcolor{blue}{\underline{submitted By}}\\
+\textbf{NAME:swaroop}\\
+\textbf{USN:1cg22is053}\\
+\vspace{5mm}
+\textcolor{cyan}{\underline{{\textbf{Under the guidance of}}}}\\
+\large\textbf{Professor name}\\
+Assistant professor\\
+Dept of ISE\\
+\centering\includegraphics[scale=0.3]{logo.jfif}\\
+\textcolor{blue}{\textb{Department of information science and Engineering}}\\
+\textcolor{red}{\textbf{CHANNABASAVESHWARA INSTITUTE OF TECHNOLOGY}}\\
+(Affiliated to Visvesvaraya Technological university)\\
+Sira road ,Tumakuru -572106,Karanataka\\
+2024-2025
+%\end{tikzpicture}
+\end{center}
+\end{document}
